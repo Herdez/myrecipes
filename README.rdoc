@@ -1,4 +1,6 @@
-== README
+== MAIN PROJECT
+
+THE PROFESSIONAL RUBY ON RAILS DEVELOPER COURSE UDEMY 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
